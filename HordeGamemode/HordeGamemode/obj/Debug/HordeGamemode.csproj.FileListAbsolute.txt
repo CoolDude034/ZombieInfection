@@ -1,0 +1,8 @@
+C:\Users\LocalServer\source\repos\HordeGamemode\HordeGamemode\bin\Debug\HordeGamemode.dll
+C:\Users\LocalServer\source\repos\HordeGamemode\HordeGamemode\bin\Debug\HordeGamemode.pdb
+C:\Users\LocalServer\source\repos\HordeGamemode\HordeGamemode\bin\Debug\ScriptHookVDotNet3.dll
+C:\Users\LocalServer\source\repos\HordeGamemode\HordeGamemode\obj\Debug\HordeGamemode.csproj.AssemblyReference.cache
+C:\Users\LocalServer\source\repos\HordeGamemode\HordeGamemode\obj\Debug\HordeGamemode.csproj.CoreCompileInputs.cache
+C:\Users\LocalServer\source\repos\HordeGamemode\HordeGamemode\obj\Debug\HordeGamemode.csproj.CopyComplete
+C:\Users\LocalServer\source\repos\HordeGamemode\HordeGamemode\obj\Debug\HordeGamemode.dll
+C:\Users\LocalServer\source\repos\HordeGamemode\HordeGamemode\obj\Debug\HordeGamemode.pdb
